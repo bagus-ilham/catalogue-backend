@@ -84,7 +84,7 @@
     "isNew": false
   },
   {
-    "id": 11,
+    "id": 8,
     "name": "Saudia",
     "sub_name": "Sonic",
     "imgUrl1": "-",
@@ -96,19 +96,7 @@
     "isNew": false
   },
   {
-    "id": 12,
-    "name": "Saudia",
-    "sub_name": "Voal Rawis",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
-    "description": "-",
-    "category_id": 2,
-    "isNew": false
-  },
-  {
-    "id": 13,
+    "id": 9,
     "name": "Saudia",
     "sub_name": "Pasmina Polos",
     "imgUrl1": "-",
@@ -120,7 +108,7 @@
     "isNew": false
   },
   {
-    "id": 14,
+    "id": 10,
     "name": "Saudia",
     "sub_name": "Pasmina Ombre",
     "imgUrl1": "-",
@@ -132,9 +120,9 @@
     "isNew": false
   },
   {
-    "id": 15,
+    "id": 11,
     "name": "Saudia",
-    "sub_name": "Pasmina Dua Muka",
+    "sub_name": "Dua Muka",
     "imgUrl1": "-",
     "imgUrl2": "-",
     "imgUrl3": "-",
@@ -144,9 +132,9 @@
     "isNew": false
   },
   {
-    "id": 16,
+    "id": 12,
     "name": "Saudia",
-    "sub_name": "Pasmina Grande",
+    "sub_name": "Grande",
     "imgUrl1": "-",
     "imgUrl2": "-",
     "imgUrl3": "-",
@@ -156,31 +144,7 @@
     "isNew": false
   },
   {
-    "id": 17,
-    "name": "Saudia",
-    "sub_name": "Pasmina Grande Stik",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
-    "description": "-",
-    "category_id": 2,
-    "isNew": false
-  },
-  {
-    "id": 18,
-    "name": "Saudia",
-    "sub_name": "Rawis Denim",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
-    "description": "-",
-    "category_id": 2,
-    "isNew": false
-  },
-  {
-    "id": 19,
+    "id": 13,
     "name": "Saudia",
     "sub_name": "Pasmina Denim",
     "imgUrl1": "-",
@@ -192,7 +156,7 @@
     "isNew": false
   },
   {
-    "id": 20,
+    "id": 14,
     "name": "Saudia",
     "sub_name": "Butik",
     "imgUrl1": "-",
@@ -204,9 +168,9 @@
     "isNew": false
   },
   {
-    "id": 21,
+    "id": 15,
     "name": "Saudia",
-    "sub_name": "Ansania Basic",
+    "sub_name": "Voal Ansania Basic",
     "imgUrl1": "-",
     "imgUrl2": "-",
     "imgUrl3": "-",
@@ -216,7 +180,7 @@
     "isNew": false
   },
   {
-    "id": 22,
+    "id": 16,
     "name": "Saudia",
     "sub_name": "Formal",
     "imgUrl1": "-",
