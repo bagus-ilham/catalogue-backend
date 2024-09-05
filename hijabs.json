@@ -192,7 +192,7 @@
     "isNew": false
   },
   {
-    "id": 23,
+    "id": 17,
     "name": "Saudia",
     "sub_name": "Formal Neci",
     "imgUrl1": "-",
@@ -204,7 +204,7 @@
     "isNew": false
   },
   {
-    "id": 24,
+    "id": 18,
     "name": "Saudia",
     "sub_name": "Foral",
     "imgUrl1": "-",
@@ -216,19 +216,7 @@
     "isNew": false
   },
   {
-    "id": 25,
-    "name": "Saudia",
-    "sub_name": "Pasmina Polos",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
-    "description": "-",
-    "category_id": 2,
-    "isNew": false
-  },
-  {
-    "id": 26,
+    "id": 19,
     "name": "Saudia",
     "sub_name": "Stik",
     "imgUrl1": "-",
@@ -240,7 +228,7 @@
     "isNew": false
   },
   {
-    "id": 27,
+    "id": 20,
     "name": "Bella",
     "sub_name": "Neci",
     "imgUrl1": "-",
@@ -252,31 +240,7 @@
     "isNew": false
   },
   {
-    "id": 28,
-    "name": "Bella",
-    "sub_name": "Panel",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
-    "description": "-",
-    "category_id": 2,
-    "isNew": false
-  },
-  {
-    "id": 29,
-    "name": "Bella",
-    "sub_name": "Butik",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
-    "description": "-",
-    "category_id": 2,
-    "isNew": false
-  },
-  {
-    "id": 30,
+    "id": 21,
     "name": "Bella",
     "sub_name": "Sonic",
     "imgUrl1": "-",
@@ -288,19 +252,7 @@
     "isNew": false
   },
   {
-    "id": 31,
-    "name": "Bella",
-    "sub_name": "Foral",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
-    "description": "-",
-    "category_id": 2,
-    "isNew": false
-  },
-  {
-    "id": 32,
+    "id": 22,
     "name": "Bella",
     "sub_name": "Syar'i",
     "imgUrl1": "-",
@@ -312,7 +264,7 @@
     "isNew": false
   },
   {
-    "id": 33,
+    "id": 23,
     "name": "Bella",
     "sub_name": "Bellanium",
     "imgUrl1": "-",
@@ -324,7 +276,7 @@
     "isNew": false
   },
   {
-    "id": 34,
+    "id": 24,
     "name": "Alba Alberto",
     "sub_name": "Polos",
     "imgUrl1": "-",
@@ -336,19 +288,7 @@
     "isNew": false
   },
   {
-    "id": 35,
-    "name": "Alba Alberto",
-    "sub_name": "Grande",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
-    "description": "-",
-    "category_id": 2,
-    "isNew": false
-  },
-  {
-    "id": 36,
+    "id": 25,
     "name": "Ansania",
     "sub_name": "Foral",
     "imgUrl1": "-",
@@ -360,7 +300,7 @@
     "isNew": false
   },
   {
-    "id": 37,
+    "id": 26,
     "name": "Ansania",
     "sub_name": "Premium",
     "imgUrl1": "-",
@@ -372,7 +312,7 @@
     "isNew": false
   },
   {
-    "id": 38,
+    "id": 27,
     "name": "Bemboo",
     "sub_name": "Polos",
     "imgUrl1": "-",
@@ -384,31 +324,7 @@
     "isNew": false
   },
   {
-    "id": 39,
-    "name": "Bemboo",
-    "sub_name": "DS",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
-    "description": "-",
-    "category_id": 2,
-    "isNew": false
-  },
-  {
-    "id": 40,
-    "name": "Bemboo",
-    "sub_name": "Jumput",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
-    "description": "-",
-    "category_id": 2,
-    "isNew": false
-  },
-  {
-    "id": 41,
+    "id": 28,
     "name": "Ceruty",
     "sub_name": "Polos",
     "imgUrl1": "-",
@@ -420,7 +336,7 @@
     "isNew": false
   },
   {
-    "id": 42,
+    "id": 29,
     "name": "Ceruty",
     "sub_name": "Sori",
     "imgUrl1": "-",
@@ -432,19 +348,7 @@
     "isNew": false
   },
   {
-    "id": 43,
-    "name": "Ceruty",
-    "sub_name": "Stik",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
-    "description": "-",
-    "category_id": 2,
-    "isNew": false
-  },
-  {
-    "id": 44,
+    "id": 30,
     "name": "Ceruty",
     "sub_name": "Butik",
     "imgUrl1": "-",
@@ -456,7 +360,7 @@
     "isNew": false
   },
   {
-    "id": 45,
+    "id": 31,
     "name": "Cornskin",
     "sub_name": "Polos",
     "imgUrl1": "-",
@@ -468,7 +372,7 @@
     "isNew": false
   },
   {
-    "id": 46,
+    "id": 32,
     "name": "Cornskin",
     "sub_name": "Butik",
     "imgUrl1": "-",
@@ -480,7 +384,7 @@
     "isNew": false
   },
   {
-    "id": 47,
+    "id": 33,
     "name": "Cornskin",
     "sub_name": "Metalik",
     "imgUrl1": "-",
@@ -492,7 +396,7 @@
     "isNew": false
   },
   {
-    "id": 48,
+    "id": 34,
     "name": "Cornskin",
     "sub_name": "Metalik Butik",
     "imgUrl1": "-",
@@ -504,7 +408,7 @@
     "isNew": false
   },
   {
-    "id": 49,
+    "id": 35,
     "name": "Cornskin",
     "sub_name": "Metalik Sonic",
     "imgUrl1": "-",
@@ -516,19 +420,7 @@
     "isNew": false
   },
   {
-    "id": 50,
-    "name": "Cornskin",
-    "sub_name": "Sonic",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
-    "description": "-",
-    "category_id": 2,
-    "isNew": false
-  },
-  {
-    "id": 51,
+    "id": 36,
     "name": "Diamont",
     "sub_name": "Grande Sonic",
     "imgUrl1": "-",
@@ -540,7 +432,7 @@
     "isNew": false
   },
   {
-    "id": 52,
+    "id": 37,
     "name": "Diamont",
     "sub_name": "Grande Stik",
     "imgUrl1": "-",
@@ -552,7 +444,7 @@
     "isNew": false
   },
   {
-    "id": 53,
+    "id": 38,
     "name": "Diamont",
     "sub_name": "Stik",
     "imgUrl1": "-",
@@ -564,7 +456,7 @@
     "isNew": false
   },
   {
-    "id": 54,
+    "id": 39,
     "name": "Ellena",
     "sub_name": "Polos",
     "imgUrl1": "-",
@@ -576,7 +468,7 @@
     "isNew": false
   },
   {
-    "id": 55,
+    "id": 40,
     "name": "Fiesta",
     "sub_name": "Sonic",
     "imgUrl1": "-",
@@ -588,9 +480,9 @@
     "isNew": false
   },
   {
-    "id": 56,
+    "id": 41,
     "name": "Florensia",
-    "sub_name": "Stik",
+    "sub_name": "Polos",
     "imgUrl1": "-",
     "imgUrl2": "-",
     "imgUrl3": "-",
@@ -600,7 +492,7 @@
     "isNew": false
   },
   {
-    "id": 57,
+    "id": 42,
     "name": "Florensia",
     "sub_name": "Dobby",
     "imgUrl1": "-",
@@ -612,7 +504,7 @@
     "isNew": false
   },
   {
-    "id": 58,
+    "id": 43,
     "name": "Hicount",
     "sub_name": "Panel 1",
     "imgUrl1": "-",
@@ -624,7 +516,7 @@
     "isNew": false
   },
   {
-    "id": 59,
+    "id": 44,
     "name": "Hicount",
     "sub_name": "Panel 2",
     "imgUrl1": "-",
@@ -636,7 +528,7 @@
     "isNew": false
   },
   {
-    "id": 60,
+    "id": 45,
     "name": "Imma",
     "sub_name": "Polos",
     "imgUrl1": "-",
@@ -648,7 +540,7 @@
     "isNew": false
   },
   {
-    "id": 61,
+    "id": 46,
     "name": "Kappas",
     "sub_name": "Polos",
     "imgUrl1": "-",
@@ -660,7 +552,7 @@
     "isNew": false
   },
   {
-    "id": 62,
+    "id": 47,
     "name": "Lovila",
     "sub_name": "Series 1",
     "imgUrl1": "-",
@@ -672,7 +564,7 @@
     "isNew": false
   },
   {
-    "id": 63,
+    "id": 48,
     "name": "Lovila",
     "sub_name": "Series 2",
     "imgUrl1": "-",
@@ -684,7 +576,7 @@
     "isNew": false
   },
   {
-    "id": 64,
+    "id": 49,
     "name": "Lovila",
     "sub_name": "Series 3",
     "imgUrl1": "-",
@@ -696,7 +588,7 @@
     "isNew": false
   },
   {
-    "id": 65,
+    "id": 50,
     "name": "Lovila",
     "sub_name": "Series 4",
     "imgUrl1": "-",
@@ -708,7 +600,7 @@
     "isNew": false
   },
   {
-    "id": 66,
+    "id": 51,
     "name": "Lovila",
     "sub_name": "Series 5",
     "imgUrl1": "-",
@@ -720,7 +612,7 @@
     "isNew": false
   },
   {
-    "id": 67,
+    "id": 52,
     "name": "Lovila",
     "sub_name": "Series 8",
     "imgUrl1": "-",
@@ -732,7 +624,7 @@
     "isNew": false
   },
   {
-    "id": 68,
+    "id": 53,
     "name": "Marcelline",
     "sub_name": "Polos",
     "imgUrl1": "-",
@@ -744,7 +636,7 @@
     "isNew": false
   },
   {
-    "id": 69,
+    "id": 54,
     "name": "Marcelline",
     "sub_name": "Silk",
     "imgUrl1": "-",
@@ -756,7 +648,7 @@
     "isNew": false
   },
   {
-    "id": 70,
+    "id": 55,
     "name": "Polywoll",
     "sub_name": "Ansania Premium",
     "imgUrl1": "-",
@@ -768,7 +660,7 @@
     "isNew": false
   },
   {
-    "id": 71,
+    "id": 56,
     "name": "Potton",
     "sub_name": "Star Sonic",
     "imgUrl1": "-",
@@ -780,7 +672,7 @@
     "isNew": false
   },
   {
-    "id": 72,
+    "id": 57,
     "name": "Potton",
     "sub_name": "Rainy Sonic",
     "imgUrl1": "-",
@@ -792,7 +684,7 @@
     "isNew": false
   },
   {
-    "id": 73,
+    "id": 58,
     "name": "Rubiya",
     "sub_name": "Stik",
     "imgUrl1": "-",
@@ -804,7 +696,7 @@
     "isNew": false
   },
   {
-    "id": 74,
+    "id": 59,
     "name": "Sania",
     "sub_name": "Polos",
     "imgUrl1": "-",
@@ -816,7 +708,7 @@
     "isNew": false
   },
   {
-    "id": 75,
+    "id": 60,
     "name": "Saten",
     "sub_name": "Sonic",
     "imgUrl1": "-",
@@ -828,7 +720,7 @@
     "isNew": false
   },
   {
-    "id": 76,
+    "id": 61,
     "name": "Shinar",
     "sub_name": "Jacquard",
     "imgUrl1": "-",
@@ -840,7 +732,7 @@
     "isNew": false
   },
   {
-    "id": 77,
+    "id": 62,
     "name": "Stella",
     "sub_name": "Rawis",
     "imgUrl1": "-",
@@ -852,9 +744,9 @@
     "isNew": false
   },
   {
-    "id": 78,
+    "id": 63,
     "name": "Tierack",
-    "sub_name": "Rawis",
+    "sub_name": "Polos",
     "imgUrl1": "-",
     "imgUrl2": "-",
     "imgUrl3": "-",
@@ -864,19 +756,7 @@
     "isNew": false
   },
   {
-    "id": 79,
-    "name": "Tierack",
-    "sub_name": "DS Grande",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
-    "description": "-",
-    "category_id": 2,
-    "isNew": false
-  },
-  {
-    "id": 80,
+    "id": 64,
     "name": "Tierack",
     "sub_name": "Misty",
     "imgUrl1": "-",
@@ -888,7 +768,7 @@
     "isNew": false
   },
   {
-    "id": 81,
+    "id": 65,
     "name": "Tierack",
     "sub_name": "Misty DS",
     "imgUrl1": "-",
@@ -900,7 +780,7 @@
     "isNew": false
   },
   {
-    "id": 82,
+    "id": 66,
     "name": "Ultrasilky",
     "sub_name": "Sonic",
     "imgUrl1": "-",
@@ -912,7 +792,7 @@
     "isNew": false
   },
   {
-    "id": 83,
+    "id": 67,
     "name": "Untravoal",
     "sub_name": "Zahra Abram",
     "imgUrl1": "-",
@@ -924,31 +804,7 @@
     "isNew": false
   },
   {
-    "id": 84,
-    "name": "Uragiri",
-    "sub_name": "Series 1",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
-    "description": "-",
-    "category_id": 2,
-    "isNew": false
-  },
-  {
-    "id": 85,
-    "name": "Uragiri",
-    "sub_name": "Series 2",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
-    "description": "-",
-    "category_id": 2,
-    "isNew": false
-  },
-  {
-    "id": 86,
+    "id": 68,
     "name": "Voal",
     "sub_name": "Helwa",
     "imgUrl1": "-",
@@ -960,9 +816,33 @@
     "isNew": false
   },
   {
-    "id": 87,
+    "id": 69,
     "name": "Voal",
     "sub_name": "Marvel Sonic",
+    "imgUrl1": "-",
+    "imgUrl2": "-",
+    "imgUrl3": "-",
+    "imgUrl4": "-",
+    "description": "-",
+    "category_id": 2,
+    "isNew": false
+  },
+  {
+    "id": 70,
+    "name": "Voal",
+    "sub_name": "Marvel Sonic Plat F",
+    "imgUrl1": "-",
+    "imgUrl2": "-",
+    "imgUrl3": "-",
+    "imgUrl4": "-",
+    "description": "-",
+    "category_id": 2,
+    "isNew": false
+  },
+  {
+    "id": 71,
+    "name": "Voal",
+    "sub_name": "Marvel Sonic Plat S",
     "imgUrl1": "-",
     "imgUrl2": "-",
     "imgUrl3": "-",
@@ -984,9 +864,33 @@
     "isNew": false
   },
   {
+    "id": 88,
+    "name": "Voil",
+    "sub_name": "Japan Paris Plat S",
+    "imgUrl1": "-",
+    "imgUrl2": "-",
+    "imgUrl3": "-",
+    "imgUrl4": "-",
+    "description": "-",
+    "category_id": 2,
+    "isNew": false
+  },
+  {
     "id": 89,
     "name": "Voil",
-    "sub_name": "Kiswah",
+    "sub_name": "Kiswah 2 Sisi",
+    "imgUrl1": "-",
+    "imgUrl2": "-",
+    "imgUrl3": "-",
+    "imgUrl4": "-",
+    "description": "-",
+    "category_id": 2,
+    "isNew": false
+  },
+  {
+    "id": 89,
+    "name": "Voil",
+    "sub_name": "Kiswah 4 Sisi",
     "imgUrl1": "-",
     "imgUrl2": "-",
     "imgUrl3": "-",
@@ -1080,6 +984,18 @@
     "isNew": false
   },
   {
+    "id": 96,
+    "name": "Cotton",
+    "sub_name": "Paris Foral Plat F",
+    "imgUrl1": "-",
+    "imgUrl2": "-",
+    "imgUrl3": "-",
+    "imgUrl4": "-",
+    "description": "-",
+    "category_id": 2,
+    "isNew": false
+  },
+  {
     "id": 97,
     "name": "Forall",
     "sub_name": "Paris Classic",
@@ -1129,8 +1045,8 @@
   },
   {
     "id": 101,
-    "name": "Cotton",
-    "sub_name": "Paris Sonic",
+    "name": "Paris",
+    "sub_name": "Cotton Sonic",
     "imgUrl1": "-",
     "imgUrl2": "-",
     "imgUrl3": "-",
@@ -1191,6 +1107,18 @@
     "id": 106,
     "name": "Fine",
     "sub_name": "Gelombang Sonic",
+    "imgUrl1": "-",
+    "imgUrl2": "-",
+    "imgUrl3": "-",
+    "imgUrl4": "-",
+    "description": "-",
+    "category_id": 2,
+    "isNew": false
+  },
+  {
+    "id": 106,
+    "name": "Fine",
+    "sub_name": "Gelombang Sonic Plat F",
     "imgUrl1": "-",
     "imgUrl2": "-",
     "imgUrl3": "-",
