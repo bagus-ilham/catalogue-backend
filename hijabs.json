@@ -852,7 +852,7 @@
     "isNew": false
   },
   {
-    "id": 88,
+    "id": 72,
     "name": "Voil",
     "sub_name": "Japan Paris",
     "imgUrl1": "-",
@@ -864,7 +864,7 @@
     "isNew": false
   },
   {
-    "id": 88,
+    "id": 73,
     "name": "Voil",
     "sub_name": "Japan Paris Plat S",
     "imgUrl1": "-",
@@ -876,7 +876,7 @@
     "isNew": false
   },
   {
-    "id": 89,
+    "id": 74,
     "name": "Voil",
     "sub_name": "Kiswah 2 Sisi",
     "imgUrl1": "-",
@@ -888,7 +888,7 @@
     "isNew": false
   },
   {
-    "id": 89,
+    "id": 75,
     "name": "Voil",
     "sub_name": "Kiswah 4 Sisi",
     "imgUrl1": "-",
@@ -900,7 +900,7 @@
     "isNew": false
   },
   {
-    "id": 90,
+    "id": 76,
     "name": "Voil",
     "sub_name": "EX Zoya",
     "imgUrl1": "-",
@@ -912,7 +912,7 @@
     "isNew": false
   },
   {
-    "id": 91,
+    "id": 77,
     "name": "Maxcell",
     "sub_name": "Zoya",
     "imgUrl1": "-",
@@ -924,7 +924,7 @@
     "isNew": false
   },
   {
-    "id": 92,
+    "id": 78,
     "name": "Bemboo",
     "sub_name": "Pasmina",
     "imgUrl1": "-",
@@ -936,7 +936,7 @@
     "isNew": false
   },
   {
-    "id": 93,
+    "id": 79,
     "name": "Imma",
     "sub_name": "Pasmina",
     "imgUrl1": "-",
@@ -948,7 +948,7 @@
     "isNew": false
   },
   {
-    "id": 94,
+    "id": 80,
     "name": "Marcelline",
     "sub_name": "Pasmina",
     "imgUrl1": "-",
@@ -960,7 +960,7 @@
     "isNew": false
   },
   {
-    "id": 95,
+    "id": 81,
     "name": "Tierack",
     "sub_name": "Pasmina",
     "imgUrl1": "-",
@@ -972,9 +972,9 @@
     "isNew": false
   },
   {
-    "id": 96,
-    "name": "Cotton",
-    "sub_name": "Paris Foral",
+    "id": 82,
+    "name": "Paris",
+    "sub_name": "Cotton Foral",
     "imgUrl1": "-",
     "imgUrl2": "-",
     "imgUrl3": "-",
@@ -984,9 +984,9 @@
     "isNew": false
   },
   {
-    "id": 96,
-    "name": "Cotton",
-    "sub_name": "Paris Foral Plat F",
+    "id": 83,
+    "name": "Paris",
+    "sub_name": "Cotton Foral Plat F",
     "imgUrl1": "-",
     "imgUrl2": "-",
     "imgUrl3": "-",
@@ -996,7 +996,7 @@
     "isNew": false
   },
   {
-    "id": 97,
+    "id": 84,
     "name": "Forall",
     "sub_name": "Paris Classic",
     "imgUrl1": "-",
@@ -1008,7 +1008,7 @@
     "isNew": false
   },
   {
-    "id": 98,
+    "id": 85,
     "name": "Forall",
     "sub_name": "Paris Classic Series 2",
     "imgUrl1": "-",
@@ -1020,7 +1020,7 @@
     "isNew": false
   },
   {
-    "id": 99,
+    "id": 86,
     "name": "Voal",
     "sub_name": "Premium",
     "imgUrl1": "-",
@@ -1032,7 +1032,7 @@
     "isNew": false
   },
   {
-    "id": 100,
+    "id": 87,
     "name": "Untravoal",
     "sub_name": "Sonic",
     "imgUrl1": "-",
@@ -1044,7 +1044,7 @@
     "isNew": false
   },
   {
-    "id": 101,
+    "id": 88,
     "name": "Paris",
     "sub_name": "Cotton Sonic",
     "imgUrl1": "-",
@@ -1056,7 +1056,19 @@
     "isNew": false
   },
   {
-    "id": 102,
+    "id": 89,
+    "name": "Paris",
+    "sub_name": "Cotton Jahit",
+    "imgUrl1": "-",
+    "imgUrl2": "-",
+    "imgUrl3": "-",
+    "imgUrl4": "-",
+    "description": "-",
+    "category_id": 2,
+    "isNew": false
+  },
+  {
+    "id": 90,
     "name": "Pinus",
     "sub_name": "Amor Sonic",
     "imgUrl1": "-",
@@ -1068,7 +1080,7 @@
     "isNew": false
   },
   {
-    "id": 103,
+    "id": 91,
     "name": "Bemboo",
     "sub_name": "Syar'i",
     "imgUrl1": "-",
@@ -1080,7 +1092,7 @@
     "isNew": false
   },
   {
-    "id": 104,
+    "id": 92,
     "name": "Phyton",
     "sub_name": "Sonic",
     "imgUrl1": "-",
@@ -1092,7 +1104,7 @@
     "isNew": false
   },
   {
-    "id": 105,
+    "id": 93,
     "name": "Bianca",
     "sub_name": "Sonic",
     "imgUrl1": "-",
@@ -1104,7 +1116,7 @@
     "isNew": false
   },
   {
-    "id": 106,
+    "id": 94,
     "name": "Fine",
     "sub_name": "Gelombang Sonic",
     "imgUrl1": "-",
@@ -1116,7 +1128,7 @@
     "isNew": false
   },
   {
-    "id": 106,
+    "id": 95,
     "name": "Fine",
     "sub_name": "Gelombang Sonic Plat F",
     "imgUrl1": "-",
@@ -1128,7 +1140,7 @@
     "isNew": false
   },
   {
-    "id": 107,
+    "id": 96,
     "name": "Voal",
     "sub_name": "Marvel Stik",
     "imgUrl1": "-",
@@ -1140,7 +1152,7 @@
     "isNew": false
   },
   {
-    "id": 108,
+    "id": 97,
     "name": "Cradenza",
     "sub_name": "Pasmina Silk Premium",
     "imgUrl1": "-",
@@ -1152,7 +1164,7 @@
     "isNew": false
   },
   {
-    "id": 109,
+    "id": 98,
     "name": "Paris",
     "sub_name": "China",
     "imgUrl1": "-",
@@ -1164,7 +1176,7 @@
     "isNew": false
   },
   {
-    "id": 110,
+    "id": 99,
     "name": "Paris",
     "sub_name": "Classic",
     "imgUrl1": "-",
@@ -1176,9 +1188,177 @@
     "isNew": false
   },
   {
-    "id": 111,
+    "id": 100,
     "name": "Paris",
     "sub_name": "Classic Series 2",
+    "imgUrl1": "-",
+    "imgUrl2": "-",
+    "imgUrl3": "-",
+    "imgUrl4": "-",
+    "description": "-",
+    "category_id": 2,
+    "isNew": false
+  },
+  {
+    "id": 101,
+    "name": "Voal",
+    "sub_name": "Premium Plat F",
+    "imgUrl1": "-",
+    "imgUrl2": "-",
+    "imgUrl3": "-",
+    "imgUrl4": "-",
+    "description": "-",
+    "category_id": 2,
+    "isNew": false
+  },
+  {
+    "id": 102,
+    "name": "Pinus",
+    "sub_name": "Amor Sonic Plat F",
+    "imgUrl1": "-",
+    "imgUrl2": "-",
+    "imgUrl3": "-",
+    "imgUrl4": "-",
+    "description": "-",
+    "category_id": 2,
+    "isNew": false
+  },
+  {
+    "id": 103,
+    "name": "Paris",
+    "sub_name": "Classic Plat F",
+    "imgUrl1": "-",
+    "imgUrl2": "-",
+    "imgUrl3": "-",
+    "imgUrl4": "-",
+    "description": "-",
+    "category_id": 2,
+    "isNew": false
+  },
+  {
+    "id": 104,
+    "name": "Bianca",
+    "sub_name": "Sonic Plat F",
+    "imgUrl1": "-",
+    "imgUrl2": "-",
+    "imgUrl3": "-",
+    "imgUrl4": "-",
+    "description": "-",
+    "category_id": 2,
+    "isNew": false
+  },
+  {
+    "id": 105,
+    "name": "Phyton",
+    "sub_name": "Sonic Plat F",
+    "imgUrl1": "-",
+    "imgUrl2": "-",
+    "imgUrl3": "-",
+    "imgUrl4": "-",
+    "description": "-",
+    "category_id": 2,
+    "isNew": false
+  },
+  {
+    "id": 106,
+    "name": "Rubiya",
+    "sub_name": "Lassercut Plat S Ziplock Lokal",
+    "imgUrl1": "-",
+    "imgUrl2": "-",
+    "imgUrl3": "-",
+    "imgUrl4": "-",
+    "description": "-",
+    "category_id": 2,
+    "isNew": false
+  },
+  {
+    "id": 107,
+    "name": "Rubiya",
+    "sub_name": "Lassercut Plat S Ziplock Import",
+    "imgUrl1": "-",
+    "imgUrl2": "-",
+    "imgUrl3": "-",
+    "imgUrl4": "-",
+    "description": "-",
+    "category_id": 2,
+    "isNew": false
+  },
+  {
+    "id": 108,
+    "name": "Ultravoal",
+    "sub_name": "Stik Plat S",
+    "imgUrl1": "-",
+    "imgUrl2": "-",
+    "imgUrl3": "-",
+    "imgUrl4": "-",
+    "description": "-",
+    "category_id": 2,
+    "isNew": false
+  },
+  {
+    "id": 109,
+    "name": "Ultrafine",
+    "sub_name": "Stik Plat S",
+    "imgUrl1": "-",
+    "imgUrl2": "-",
+    "imgUrl3": "-",
+    "imgUrl4": "-",
+    "description": "-",
+    "category_id": 2,
+    "isNew": false
+  },
+  {
+    "id": 110,
+    "name": "Ultrafine",
+    "sub_name": "Stik Plat S Ziplock Import",
+    "imgUrl1": "-",
+    "imgUrl2": "-",
+    "imgUrl3": "-",
+    "imgUrl4": "-",
+    "description": "-",
+    "category_id": 2,
+    "isNew": false
+  },
+  {
+    "id": 111,
+    "name": "Ultravoal",
+    "sub_name": "Stik Plat S Ziplock Import",
+    "imgUrl1": "-",
+    "imgUrl2": "-",
+    "imgUrl3": "-",
+    "imgUrl4": "-",
+    "description": "-",
+    "category_id": 2,
+    "isNew": false
+  },
+  {
+    "id": 112,
+    "name": "Hi Voal",
+    "sub_name": "Lassercut Plat S Ziplock Lokal",
+    "imgUrl1": "-",
+    "imgUrl2": "-",
+    "imgUrl3": "-",
+    "imgUrl4": "-",
+    "description": "-",
+    "category_id": 2,
+    "isNew": false
+  },
+  {
+    "id": 113,
+    "name": "Hi Voal",
+    "sub_name": "Lassercut Gigi Hiu Plat S Uniqlo",
+    "imgUrl1": "-",
+    "imgUrl2": "-",
+    "imgUrl3": "-",
+    "imgUrl4": "-",
+    "description": "-",
+    "category_id": 2,
+    "isNew": false
+  },
+  {
+    "id": 114,
+    "name": "Voal",
+    "sub_name": "Emerald Lassercut Gigi Hiu Plat S Uniqlo",
     "imgUrl1": "-",
     "imgUrl2": "-",
     "imgUrl3": "-",
