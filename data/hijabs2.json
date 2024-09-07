@@ -1,0 +1,36 @@
+[
+  {
+    "id": 115,
+    "name": "Bemboo",
+    "sub_name": "Jumputan",
+    "imgUrl1": "-",
+    "imgUrl2": "-",
+    "imgUrl3": "-",
+    "imgUrl4": "-",
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },{
+    "id": 116,
+    "name": "Voil",
+    "sub_name": "Motif",
+    "imgUrl1": "-",
+    "imgUrl2": "-",
+    "imgUrl3": "-",
+    "imgUrl4": "-",
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },{
+    "id": 117,
+    "name": "Voil",
+    "sub_name": "Cotton EX HML Motif",
+    "imgUrl1": "-",
+    "imgUrl2": "-",
+    "imgUrl3": "-",
+    "imgUrl4": "-",
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  }
+]
