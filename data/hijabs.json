@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Shinar",
     "subName": "Stik",
-    "imgUrls" : ["-", "-", "-", "-"],
+    "imgUrls" : ["https://imgur.com/cp4XXap.jpeg", "https://imgur.com/Fro6U0l.jpeg", "https://imgur.com/AZ9lb7v.jpeg", "https://imgur.com/2SREiIt.jpeg"],
     "description": "-",
     "categoryId": 1,
     "isNew": false
