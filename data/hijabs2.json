@@ -3,10 +3,7 @@
     "id": 115,
     "name": "Bemboo",
     "sub_name": "Jumputan",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -15,10 +12,7 @@
     "id": 116,
     "name": "Voil",
     "sub_name": "Sonic Button Scarf",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -27,10 +21,7 @@
     "id": 117,
     "name": "Voil",
     "sub_name": "LV",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -39,10 +30,7 @@
     "id": 118,
     "name": "Voil",
     "sub_name": "Chanel",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -51,10 +39,7 @@
     "id": 119,
     "name": "Voil",
     "sub_name": "Cotton Renda Baso",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -63,10 +48,7 @@
     "id": 120,
     "name": "Voil",
     "sub_name": "Cotton Renda Jengkol",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -75,10 +57,7 @@
     "id": 121,
     "name": "Voil",
     "sub_name": "Cotton Renda",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -87,10 +66,7 @@
     "id": 122,
     "name": "Fine",
     "sub_name": "Neci",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -99,10 +75,7 @@
     "id": 123,
     "name": "Fine",
     "sub_name": "Stik",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -111,10 +84,7 @@
     "id": 124,
     "name": "Helwa",
     "sub_name": "Stik",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -123,10 +93,7 @@
     "id": 124,
     "name": "Istanbul",
     "sub_name": "Motif",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -135,10 +102,7 @@
     "id": 125,
     "name": "Istanbul",
     "sub_name": "Sonic",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -147,10 +111,7 @@
     "id": 126,
     "name": "Maxcell",
     "sub_name": "Motif",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -159,10 +120,7 @@
     "id": 127,
     "name": "Maxcell",
     "sub_name": "Paper Print",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -171,10 +129,7 @@
     "id": 128,
     "name": "Maxcell",
     "sub_name": "Stik",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -183,10 +138,7 @@
     "id": 129,
     "name": "Polywool",
     "sub_name": "Motif",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -195,10 +147,7 @@
     "id": 130,
     "name": "Sania",
     "sub_name": "Moda Gliter",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -207,10 +156,7 @@
     "id": 131,
     "name": "Rubiya",
     "sub_name": "Kasual",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -219,10 +165,7 @@
     "id": 132,
     "name": "Sania",
     "sub_name": "Motif",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -231,10 +174,7 @@
     "id": 133,
     "name": "Saten",
     "sub_name": "Motif",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -243,10 +183,7 @@
     "id": 134,
     "name": "Saudia",
     "sub_name": "Combo",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -255,10 +192,7 @@
     "id": 135,
     "name": "Saudia",
     "sub_name": "Combo Extra",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -267,10 +201,7 @@
     "id": 136,
     "name": "Saudia",
     "sub_name": "Combo Sonic",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -279,10 +210,7 @@
     "id": 137,
     "name": "Saudia",
     "sub_name": "Koloni",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -291,10 +219,7 @@
     "id": 138,
     "name": "Saudia",
     "sub_name": "Koloni Extra",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -303,10 +228,7 @@
     "id": 139,
     "name": "Saudia",
     "sub_name": "Sonic",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -315,10 +237,7 @@
     "id": 140,
     "name": "Saudia",
     "sub_name": "Motif",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -327,10 +246,7 @@
     "id": 141,
     "name": "Saudia",
     "sub_name": "Renda",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -339,10 +255,7 @@
     "id": 142,
     "name": "Shinar",
     "sub_name": "Motif",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -351,10 +264,7 @@
     "id": 143,
     "name": "Shinar",
     "sub_name": "Ornament",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -363,10 +273,7 @@
     "id": 144,
     "name": "Shinar",
     "sub_name": "Kaum",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -375,10 +282,7 @@
     "id": 145,
     "name": "Tender",
     "sub_name": "Motif",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -387,10 +291,7 @@
     "id": 146,
     "name": "Texture",
     "sub_name": "Stik",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -399,10 +300,7 @@
     "id": 147,
     "name": "Tierack",
     "sub_name": "Jacquard",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -411,10 +309,7 @@
     "id": 148,
     "name": "Voil",
     "sub_name": "Runis",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -423,10 +318,7 @@
     "id": 149,
     "name": "Voil",
     "sub_name": "S@M",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -435,10 +327,7 @@
     "id": 150,
     "name": "Voil",
     "sub_name": "Tieday",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -447,10 +336,7 @@
     "id": 151,
     "name": "Shinar",
     "sub_name": "MK List",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -459,10 +345,7 @@
     "id": 152,
     "name": "Shinar",
     "sub_name": "Fendi",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -471,10 +354,7 @@
     "id": 153,
     "name": "Shinar",
     "sub_name": "Monogram Tunas",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -483,10 +363,7 @@
     "id": 154,
     "name": "Fine",
     "sub_name": "Motif",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -495,10 +372,7 @@
     "id": 155,
     "name": "Maxcell",
     "sub_name": "Motif",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -507,10 +381,7 @@
     "id": 156,
     "name": "Maxcell",
     "sub_name": "Renda Baso",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -519,10 +390,7 @@
     "id": 157,
     "name": "Polywool",
     "sub_name": "Pasmina",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -531,10 +399,7 @@
     "id": 158,
     "name": "Polywool",
     "sub_name": "Print Pasta",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -543,10 +408,7 @@
     "id": 159,
     "name": "Renda",
     "sub_name": "Baso",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -555,10 +417,7 @@
     "id": 160,
     "name": "Renda",
     "sub_name": "Bunga",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -567,10 +426,7 @@
     "id": 161,
     "name": "Renda",
     "sub_name": "Dayak",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -579,10 +435,7 @@
     "id": 162,
     "name": "Renda",
     "sub_name": "Donat",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -591,10 +444,7 @@
     "id": 163,
     "name": "Renda",
     "sub_name": "Jengkol",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -603,10 +453,7 @@
     "id": 164,
     "name": "Saudia",
     "sub_name": "Pasmina",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -615,10 +462,7 @@
     "id": 165,
     "name": "Saudia",
     "sub_name": "Ombre",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -627,10 +471,7 @@
     "id": 166,
     "name": "Voil",
     "sub_name": "Motif",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
@@ -639,10 +480,1366 @@
     "id": 167,
     "name": "Fine",
     "sub_name": "Sonic",
-    "imgUrl1": "-",
-    "imgUrl2": "-",
-    "imgUrl3": "-",
-    "imgUrl4": "-",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 168,
+    "name": "Fine",
+    "sub_name": "Makasar",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 169,
+    "name": "Fine",
+    "sub_name": "Stik Makasar",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 170,
+    "name": "Fine",
+    "sub_name": "Sonic Makasar",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 171,
+    "name": "Digital Print",
+    "sub_name": "Daffanya",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 172,
+    "name": "Digital Motif",
+    "sub_name": "Veishein",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 173,
+    "name": "Digital Print",
+    "sub_name": "Ansania",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 174,
+    "name": "Digital Print",
+    "sub_name": "Hijans",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 175,
+    "name": "Digital Print",
+    "sub_name": "Flower",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 176,
+    "name": "Digital Motif",
+    "sub_name": "Al Hajj",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 177,
+    "name": "Digital Print",
+    "sub_name": "Lingga",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 178,
+    "name": "Digital Motif",
+    "sub_name": "Namirah",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 179,
+    "name": "Digital Motif",
+    "sub_name": "Luana",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 180,
+    "name": "Digital Motif",
+    "sub_name": "Nameera",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 181,
+    "name": "Digital Motif",
+    "sub_name": "Latifa",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 182,
+    "name": "Digital Print",
+    "sub_name": "Azalea",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 183,
+    "name": "Digital Motif",
+    "sub_name": "Nadhifa",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 184,
+    "name": "Digital Motif",
+    "sub_name": "Sabrina",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 185,
+    "name": "Digital Motif",
+    "sub_name": "Sofia",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 186,
+    "name": "Digital Motif",
+    "sub_name": "Lunar",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 187,
+    "name": "Digital Print",
+    "sub_name": "Afra",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 188,
+    "name": "Digital Print",
+    "sub_name": "Viola",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 189,
+    "name": "Digital Motif",
+    "sub_name": "Kamela",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 190,
+    "name": "Digital Print",
+    "sub_name": "Blossom",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 191,
+    "name": "Digital Print",
+    "sub_name": "Calla",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 192,
+    "name": "Digital Motif",
+    "sub_name": "Kiarra",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 193,
+    "name": "Digital Print",
+    "sub_name": "Daisy",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 194,
+    "name": "Digital Print",
+    "sub_name": "Keyesha",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 195,
+    "name": "Digital Print",
+    "sub_name": "Elora",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 196,
+    "name": "Digital Print",
+    "sub_name": "Zaura",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 197,
+    "name": "Digital Motif",
+    "sub_name": "Shiha",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 198,
+    "name": "Digital Motif",
+    "sub_name": "Luvia",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 199,
+    "name": "Digital Print",
+    "sub_name": "Luvia",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 200,
+    "name": "Digital Motif",
+    "sub_name": "Nayanika",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 201,
+    "name": "Digital Print",
+    "sub_name": "Tyana",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 202,
+    "name": "Digital Print",
+    "sub_name": "Shanna",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 203,
+    "name": "Digital Print",
+    "sub_name": "Manika",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 204,
+    "name": "Digital Print",
+    "sub_name": "Alice",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 205,
+    "name": "Digital Print",
+    "sub_name": "Laurel",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 206,
+    "name": "Digital Print",
+    "sub_name": "Laurel Plat S",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 207,
+    "name": "Digital Print",
+    "sub_name": "Larisa",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 208,
+    "name": "Digital Motif",
+    "sub_name": "Almona",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 209,
+    "name": "Digital Print",
+    "sub_name": "Almona",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 208,
+    "name": "Digital Print",
+    "sub_name": "Flora Sonic",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 209,
+    "name": "Digital Motif",
+    "sub_name": "Tera",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 210,
+    "name": "Digital Motif",
+    "sub_name": "Raline",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 211,
+    "name": "Digital Motif",
+    "sub_name": "Aruna",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 212,
+    "name": "Digital Print",
+    "sub_name": "Kiara",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 213,
+    "name": "Digital Print",
+    "sub_name": "Illaya",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 214,
+    "name": "Digital Motif",
+    "sub_name": "Lyra Syar'i",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 215,
+    "name": "Digital Motif",
+    "sub_name": "Qaseema Syar'i",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 216,
+    "name": "Digital Print",
+    "sub_name": "Ghaisa Sonic Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 217,
+    "name": "Digital Print",
+    "sub_name": "Ghaisa",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 218,
+    "name": "Digital Print",
+    "sub_name": "Ghaisa Sonic Plat S",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 219,
+    "name": "Digital Motif",
+    "sub_name": "Kinaya Syar'i",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 220,
+    "name": "Digital Print",
+    "sub_name": "Almas",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 221,
+    "name": "Digital Motif",
+    "sub_name": "Queene Syar'i",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 222,
+    "name": "Digital Print",
+    "sub_name": "Rayhana Syar'i",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 223,
+    "name": "Digital Print",
+    "sub_name": "Lobelia",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 224,
+    "name": "Digital Print",
+    "sub_name": "Dania",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 225,
+    "name": "Digital Print",
+    "sub_name": "Ansania Plat S",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 226,
+    "name": "Digital Print",
+    "sub_name": "Miyuki",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 227,
+    "name": "Digital Print",
+    "sub_name": "Avania",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 228,
+    "name": "Digital Motif",
+    "sub_name": "Hafsa",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 229,
+    "name": "Digital Motif",
+    "sub_name": "Thana",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 230,
+    "name": "Digital Motif",
+    "sub_name": "Atiqa",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 231,
+    "name": "Digital Print",
+    "sub_name": "Aryani",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 232,
+    "name": "Digital Print",
+    "sub_name": "Astari",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 233,
+    "name": "Digital Print",
+    "sub_name": "Safwa",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 234,
+    "name": "Digital Print",
+    "sub_name": "Widuri",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 235,
+    "name": "Digital Print",
+    "sub_name": "Widuri Plat S",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 236,
+    "name": "Digital Motif",
+    "sub_name": "Dhurma",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 237,
+    "name": "Digital Motif",
+    "sub_name": "Peony",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 238,
+    "name": "Digital Motif",
+    "sub_name": "Divya",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 239,
+    "name": "Digital Motif",
+    "sub_name": "Fumi",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 240,
+    "name": "Digital Print",
+    "sub_name": "Nashita",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 241,
+    "name": "Digital Print",
+    "sub_name": "Darsie T40s",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 242,
+    "name": "Digital Print",
+    "sub_name": "Etisha T40",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 243,
+    "name": "Digital Print",
+    "sub_name": "Shabira T40",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 244,
+    "name": "Digital Print",
+    "sub_name": "Shabira",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 245,
+    "name": "Digital Print",
+    "sub_name": "Shabira T40 Plat S",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 246,
+    "name": "Digital Print",
+    "sub_name": "Nastiti T40",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 247,
+    "name": "Digital Print",
+    "sub_name": "Nadheera Thalisa T45S",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 248,
+    "name": "Digital ",
+    "sub_name": "Emiko",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 249,
+    "name": "Digital Print",
+    "sub_name": "Fatma",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 250,
+    "name": "Digital Print",
+    "sub_name": "Fatn",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 251,
+    "name": "Digital Print",
+    "sub_name": "Rafhia",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 252,
+    "name": "Digital Print",
+    "sub_name": "Azzyylla",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 253,
+    "name": "Digital Print",
+    "sub_name": "Amrini Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 254,
+    "name": "Digital Print",
+    "sub_name": "Ashalina",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 255,
+    "name": "Digital Print",
+    "sub_name": "Tanisha",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 256,
+    "name": "Digital Print",
+    "sub_name": "Tanisha Plat S",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 257,
+    "name": "Digital Print",
+    "sub_name": "Ranum",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 258,
+    "name": "Digital Print",
+    "sub_name": "Kaori",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 259,
+    "name": "Digital Print",
+    "sub_name": "Amour",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 260,
+    "name": "Digital Print",
+    "sub_name": "Binar",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 261,
+    "name": "Digital Print",
+    "sub_name": "Farayaka",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 262,
+    "name": "Digital Print",
+    "sub_name": "Caralina",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 263,
+    "name": "Digital Print",
+    "sub_name": "Nahla",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 264,
+    "name": "Digital Print",
+    "sub_name": "Dhiya",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 265,
+    "name": "Digital Print",
+    "sub_name": "Ziya Sonic Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 266,
+    "name": "Digital Print",
+    "sub_name": "Kara Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 267,
+    "name": "Digital Print",
+    "sub_name": "Dura Sonic Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 268,
+    "name": "Digital Print",
+    "sub_name": "Dhira Sonic Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 269,
+    "name": "Digital Print",
+    "sub_name": "Inaya Sonic Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 270,
+    "name": "Digital Print",
+    "sub_name": "Moza Sonic Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 271,
+    "name": "Digital Print",
+    "sub_name": "Hestia Sonic Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 272,
+    "name": "Digital Print",
+    "sub_name": "Mawa",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 273,
+    "name": "Digital Print",
+    "sub_name": "Anjana Sonic Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 274,
+    "name": "Digital Print",
+    "sub_name": "Allure Sonic Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 275,
+    "name": "Digital Print",
+    "sub_name": "Shafa",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 276,
+    "name": "Digital Print",
+    "sub_name": "Isabeline",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 277,
+    "name": "Digital Print",
+    "sub_name": "Avania Tasdia",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 278,
+    "name": "Digital Print",
+    "sub_name": "Darsie T40s Plat S",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 279,
+    "name": "Digital Print",
+    "sub_name": "Nashita Plat S",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 280,
+    "name": "Digital Print",
+    "sub_name": "Ranum Plat S",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 281,
+    "name": "Digital Print",
+    "sub_name": "Amour Plat S",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 282,
+    "name": "Digital Print",
+    "sub_name": "Etisha T40 Plat S",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 283,
+    "name": "Digital Print",
+    "sub_name": "Rusayla Plat S",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 284,
+    "name": "Digital Print",
+    "sub_name": "Marjani Plat S",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 285,
+    "name": "Digital Print",
+    "sub_name": "Kaneila Plat S",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 286,
+    "name": "Digital Print",
+    "sub_name": "Greta Plat S",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 287,
+    "name": "Digital Print",
+    "sub_name": "Dane Plat S",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 288,
+    "name": "Digital Print",
+    "sub_name": "Amai Plat S",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 289,
+    "name": "Digital Print",
+    "sub_name": "Hallie Plat S",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 290,
+    "name": "Digital Print",
+    "sub_name": "Farayaka Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 291,
+    "name": "Digital Print",
+    "sub_name": "Amour Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 292,
+    "name": "Digital Print",
+    "sub_name": "Azzyylla Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 293,
+    "name": "Digital Print",
+    "sub_name": "Kaori Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 294,
+    "name": "Digital Print",
+    "sub_name": "Emiko Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 295,
+    "name": "Digital Print",
+    "sub_name": "Ranum Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 296,
+    "name": "Digital Print",
+    "sub_name": "Fumi Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 297,
+    "name": "Digital Print",
+    "sub_name": "Nashita Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 298,
+    "name": "Digital Print",
+    "sub_name": "Divya Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 299,
+    "name": "Digital Print",
+    "sub_name": "Caralina Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 300,
+    "name": "Digital Print",
+    "sub_name": "Darsie T40s Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 301,
+    "name": "Digital Print",
+    "sub_name": "Safwa T40s Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 302,
+    "name": "Digital Print",
+    "sub_name": "Astari T40s Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 303,
+    "name": "Digital Print",
+    "sub_name": "Nastiti T40s Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 304,
+    "name": "Digital Print",
+    "sub_name": "Ethisa T40s Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 305,
+    "name": "Digital Print",
+    "sub_name": "Widuri T40s Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 306,
+    "name": "Digital Print",
+    "sub_name": "Shabira T40s Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 307,
+    "name": "Digital Print",
+    "sub_name": "Fatma Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 308,
+    "name": "Digital Print",
+    "sub_name": "Shafa Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 309,
+    "name": "Digital Print",
+    "sub_name": "Isabeline Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 310,
+    "name": "Digital Print",
+    "sub_name": "Tanisha Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 311,
+    "name": "Digital Print",
+    "sub_name": "Mawa Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 312,
+    "name": "Digital Print",
+    "sub_name": "Ashalina Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 313,
+    "name": "Digital Print",
+    "sub_name": "Fatn Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 314,
+    "name": "Digital Print",
+    "sub_name": "Dhiya Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 315,
+    "name": "Digital Print",
+    "sub_name": "Raphia Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
+    "description": "-",
+    "category_id": 1,
+    "isNew": false
+  },
+  {
+    "id": 316,
+    "name": "Digital Print",
+    "sub_name": "Nahla Plat F",
+    "imgUrls" : ["-", "-", "-", "-"],
     "description": "-",
     "category_id": 1,
     "isNew": false
