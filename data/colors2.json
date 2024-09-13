@@ -452,28 +452,28 @@
     "hexCode": "-",
     "rgb": "-",
     "imgUrl": "-",
-    "productId": 124
+    "productId": 318
   },
   {
     "name": "Motif B",
     "hexCode": "-",
     "rgb": "-",
     "imgUrl": "-",
-    "productId": 124
+    "productId": 318
   },
   {
     "name": "Motif C",
     "hexCode": "-",
     "rgb": "-",
     "imgUrl": "-",
-    "productId": 124
+    "productId": 318
   },
   {
     "name": "Motif D",
     "hexCode": "-",
     "rgb": "-",
     "imgUrl": "-",
-    "productId": 124
+    "productId": 318
   },
   {
     "name": "Motif A",
@@ -6545,21 +6545,28 @@
     "productId": 205
   },
   {
-    "name": "Sage",
+    "name": "Black",
     "hexCode": "-",
     "rgb": "-",
     "imgUrl": "-",
     "productId": 206
   },
   {
-    "name": "Flare",
+    "name": "Caramel",
     "hexCode": "-",
     "rgb": "-",
     "imgUrl": "-",
     "productId": 206
   },
   {
-    "name": "Cashmere",
+    "name": "Denim",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 206
+  },
+  {
+    "name": "Olive",
     "hexCode": "-",
     "rgb": "-",
     "imgUrl": "-",
@@ -6573,39 +6580,67 @@
     "productId": 206
   },
   {
+    "name": "Sage",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 207
+  },
+  {
+    "name": "Flare",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 207
+  },
+  {
+    "name": "Cashmere",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 207
+  },
+  {
+    "name": "Salmon",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 207
+  },
+  {
     "name": "Soft Grey",
     "hexCode": "-",
     "rgb": "-",
     "imgUrl": "-",
-    "productId": 206
+    "productId": 207
   },
   {
     "name": "Sweet Green",
     "hexCode": "-",
     "rgb": "-",
     "imgUrl": "-",
-    "productId": 207
+    "productId": 319
   },
   {
     "name": "Khaky",
     "hexCode": "-",
     "rgb": "-",
     "imgUrl": "-",
-    "productId": 207
+    "productId": 319
   },
   {
     "name": "Blue Fog",
     "hexCode": "-",
     "rgb": "-",
     "imgUrl": "-",
-    "productId": 207
+    "productId": 319
   },
   {
     "name": "Ivory",
     "hexCode": "-",
     "rgb": "-",
     "imgUrl": "-",
-    "productId": 207
+    "productId": 319
   },
   {
     "name": "Lylac",
@@ -10547,5 +10582,362 @@
     "rgb": "-",
     "imgUrl": "-",
     "productId": 316
+  },
+  {
+    "name": "Abu Biru",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Abu Muda",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Abu Tua",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Army",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Asem",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Berry",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Biru",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Biru Mint",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Biru Toska",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Blue Denim",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Coklat Pasta",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Coklat Susu",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Coklat Susu Muda",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Cont",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "DW",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Dove",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Dusty Pink",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Egg",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Haze",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Hijau Tni",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Hijau Tosca",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Hitam",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Khaky",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Kopi",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Kubus",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Lavender",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Maroon",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Mauve",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Merah Bata",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Mint",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Mocca",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Navy",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Oat",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Olive",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Peach",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Biru Pan",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Pink Fanta",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Putih",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Rose",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Rose Baby",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Sage",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Salem",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Salem Pasta",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Silver",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "TNI",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Toska",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Toska Sedang",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Toska Tua",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Violet Tua",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Wardah",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
+  },
+  {
+    "name": "Salmon",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 317
   }
 ]
