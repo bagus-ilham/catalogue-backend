@@ -6608,38 +6608,3944 @@
     "productId": 207
   },
   {
-    "name": "",
-    "hexCode": "-",
-    "rgb": "-",
-    "imgUrl": "-",
-    "productId": 207
-  },
-  {
-    "name": "",
+    "name": "Lylac",
     "hexCode": "-",
     "rgb": "-",
     "imgUrl": "-",
     "productId": 208
   },
   {
-    "name": "",
+    "name": "Cream",
     "hexCode": "-",
     "rgb": "-",
     "imgUrl": "-",
     "productId": 208
   },
   {
-    "name": "",
+    "name": "Hijau",
     "hexCode": "-",
     "rgb": "-",
     "imgUrl": "-",
     "productId": 208
   },
   {
-    "name": "",
+    "name": "Blue",
     "hexCode": "-",
     "rgb": "-",
     "imgUrl": "-",
     "productId": 208
+  },
+  {
+    "name": "Pink",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 208
+  },
+  {
+    "name": "Dusty",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 208
+  },
+  {
+    "name": "Dusty",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 209
+  },
+  {
+    "name": "Navy",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 209
+  },
+  {
+    "name": "Lylac",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 209
+  },
+  {
+    "name": "Sky Blue",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 209
+  },
+  {
+    "name": "Sage",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 209
+  },
+  {
+    "name": "Blue",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 210
+  },
+  {
+    "name": "Purple",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 210
+  },
+  {
+    "name": "Taupe",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 210
+  },
+  {
+    "name": "Navy",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 210
+  },
+  {
+    "name": "Maroon",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 210
+  },
+  {
+    "name": "Blue",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 211
+  },
+  {
+    "name": "Choco",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 211
+  },
+  {
+    "name": "Gold",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 211
+  },
+  {
+    "name": "White Green",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 211
+  },
+  {
+    "name": "Purple",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 211
+  },
+  {
+    "name": "Ivory",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 212
+  },
+  {
+    "name": "Sand",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 212
+  },
+  {
+    "name": "Black",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 212
+  },
+  {
+    "name": "Peach",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 213
+  },
+  {
+    "name": "White",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 213
+  },
+  {
+    "name": "Silver",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 213
+  },
+  {
+    "name": "Blue",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 213
+  },
+  {
+    "name": "Green",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 213
+  },
+  {
+    "name": "Stone",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 214
+  },
+  {
+    "name": "Latte",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 214
+  },
+  {
+    "name": "Olive",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 214
+  },
+  {
+    "name": "Cream",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 214
+  },
+  {
+    "name": "Blue",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 214
+  },
+  {
+    "name": "Khaky",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 215
+  },
+  {
+    "name": "Dusty Pink",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 215
+  },
+  {
+    "name": "Hitam",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 215
+  },
+  {
+    "name": "Green",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 215
+  },
+  {
+    "name": "Ocean Blue",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 215
+  },
+  {
+    "name": "Skyway",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 216
+  },
+  {
+    "name": "Brown",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 216
+  },
+  {
+    "name": "Toscha",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 216
+  },
+  {
+    "name": "Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 216
+  },
+  {
+    "name": "Dark Brown",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 216
+  },
+  {
+    "name": "Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 217
+  },
+  {
+    "name": "Brown",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 217
+  },
+  {
+    "name": "Skyway",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 217
+  },
+  {
+    "name": "Toscha",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 217
+  },
+  {
+    "name": "Dark Brown",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 217
+  },
+  {
+    "name": "Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 218
+  },
+  {
+    "name": "Toscha",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 218
+  },
+  {
+    "name": "Sky Blue",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 218
+  },
+  {
+    "name": "Brown",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 218
+  },
+  {
+    "name": "Dark Brown",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 218
+  },
+  {
+    "name": "Cream",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 219
+  },
+  {
+    "name": "Maroon",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 219
+  },
+  {
+    "name": "Latte",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 219
+  },
+  {
+    "name": "Black",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 219
+  },
+  {
+    "name": "Stone",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 219
+  },
+  {
+    "name": "Beige",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 220
+  },
+  {
+    "name": "Blue",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 220
+  },
+  {
+    "name": "Coffee",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 220
+  },
+  {
+    "name": "Latte",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 220
+  },
+  {
+    "name": "Purple",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 220
+  },
+  {
+    "name": "Denim",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 220
+  },
+  {
+    "name": "Black",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 201
+  },
+  {
+    "name": "Ocean",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 201
+  },
+  {
+    "name": "Lylac",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 201
+  },
+  {
+    "name": "Ivory",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 201
+  },
+  {
+    "name": "Maroon",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 201
+  },
+  {
+    "name": "Moonlight",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 202
+  },
+  {
+    "name": "Night Blue",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 202
+  },
+  {
+    "name": "Brown",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 202
+  },
+  {
+    "name": "Emerald",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 202
+  },
+  {
+    "name": "Maroon",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 202
+  },
+  {
+    "name": "Green",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 203
+  },
+  {
+    "name": "Cream",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 203
+  },
+  {
+    "name": "Purple",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 203
+  },
+  {
+    "name": "Pink",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 203
+  },
+  {
+    "name": "Blue",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 203
+  },
+  {
+    "name": "Hitam",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 204
+  },
+  {
+    "name": "Taupe",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 204
+  },
+  {
+    "name": "YELLOW",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 204
+  },
+  {
+    "name": "Green",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 204
+  },
+  {
+    "name": "Motif 1 - Coklat",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 173
+  },
+  {
+    "name": "Motif 1 - Hitam",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 173
+  },
+  {
+    "name": "Motif 1 - Biru Navy",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 173
+  },
+  {
+    "name": "Motif 1 - Biru Metalik",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 173
+  },
+  {
+    "name": "Motif 1 - Mocca",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 173
+  },
+  {
+    "name": "Motif 1 - Maroon",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 173
+  },
+  {
+    "name": "Motif 1 - Olive",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 173
+  },
+  {
+    "name": "Motif 2 - Hitam",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 225
+  },
+  {
+    "name": "Motif 2 - Maroon",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 225
+  },
+  {
+    "name": "Motif 2 - Army",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 225
+  },
+  {
+    "name": "Motif 2 - Cream",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 225
+  },
+  {
+    "name": "Motif 2 - Choco",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 225
+  },
+  {
+    "name": "Motif 3 - Hitam",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 173
+  },
+  {
+    "name": "Motif 3 - Coklat",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 173
+  },
+  {
+    "name": "Motif 3 - Biru Metalik",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 173
+  },
+  {
+    "name": "Motif 4 - Denim",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 225
+  },
+  {
+    "name": "Motif 4 - Purple",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 225
+  },
+  {
+    "name": "Motif 4 - Hitam",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 225
+  },
+  {
+    "name": "Motif 4 - Blue",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 225
+  },
+  {
+    "name": "Motif 4 - Chili",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 225
+  },
+  {
+    "name": "Motif 5 - Coklat",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 173
+  },
+  {
+    "name": "Motif 5 - Hitam",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 173
+  },
+  {
+    "name": "Motif 5 - Toscha",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 173
+  },
+  {
+    "name": "Motif 5 - Ungu",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 173
+  },
+  {
+    "name": "Biru",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 226
+  },
+  {
+    "name": "Hijau",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 226
+  },
+  {
+    "name": "Pink",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 226
+  },
+  {
+    "name": "Coklat",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 226
+  },
+  {
+    "name": "Alter",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 226
+  },
+  {
+    "name": "Hazelnut",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 226
+  },
+  {
+    "name": "Biru Hijau",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 226
+  },
+  {
+    "name": "Skyride",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 226
+  },
+  {
+    "name": "Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 227
+  },
+  {
+    "name": "Purple",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 227
+  },
+  {
+    "name": "Toscha",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 227
+  },
+  {
+    "name": "Brown",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 227
+  },
+  {
+    "name": "Green",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 227
+  },
+  {
+    "name": "Toscha",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 228
+  },
+  {
+    "name": "Brown",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 228
+  },
+  {
+    "name": "Maroon",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 228
+  },
+  {
+    "name": "Blue",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 228
+  },
+  {
+    "name": "Navy",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 228
+  },
+  {
+    "name": "Caramel",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 229
+  },
+  {
+    "name": "Sage",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 229
+  },
+  {
+    "name": "Olive",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 229
+  },
+  {
+    "name": "Cream",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 229
+  },
+  {
+    "name": "Butter Cream",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 230
+  },
+  {
+    "name": "Ash Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 230
+  },
+  {
+    "name": "Sage Green",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 230
+  },
+  {
+    "name": "Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 230
+  },
+  {
+    "name": "Lylac",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 230
+  },
+  {
+    "name": "Dusty Pink",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 230
+  },
+  {
+    "name": "Ash",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 231
+  },
+  {
+    "name": "Denim",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 231
+  },
+  {
+    "name": "Hill",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 231
+  },
+  {
+    "name": "Khaky",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 231
+  },
+  {
+    "name": "Sky",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 231
+  },
+  {
+    "name": "Dusty",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 232
+  },
+  {
+    "name": "Choco",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 232
+  },
+  {
+    "name": "Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 232
+  },
+  {
+    "name": "Maroon",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 232
+  },
+  {
+    "name": "Sage",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 232
+  },
+  {
+    "name": "Pink",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 232
+  },
+  {
+    "name": "Brown",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 232
+  },
+  {
+    "name": "BW",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 233
+  },
+  {
+    "name": "Khaky",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 233
+  },
+  {
+    "name": "Sage",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 233
+  },
+  {
+    "name": "Soft Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 233
+  },
+  {
+    "name": "Cream",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 233
+  },
+  {
+    "name": "Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 233
+  },
+  {
+    "name": "Dusty",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 234
+  },
+  {
+    "name": "Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 234
+  },
+  {
+    "name": "BW",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 234
+  },
+  {
+    "name": "Navy",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 234
+  },
+  {
+    "name": "Hitam",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 234
+  },
+  {
+    "name": "Dusty",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 235
+  },
+  {
+    "name": "Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 235
+  },
+  {
+    "name": "BW",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 235
+  },
+  {
+    "name": "Navy",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 235
+  },
+  {
+    "name": "Hitam",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 235
+  },
+  {
+    "name": "Peach",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 236
+  },
+  {
+    "name": "Ocre",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 236
+  },
+  {
+    "name": "Sky",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 236
+  },
+  {
+    "name": "Emerald",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 236
+  },
+  {
+    "name": "Latte",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 236
+  },
+  {
+    "name": "Stone",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 237
+  },
+  {
+    "name": "Khaky",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 237
+  },
+  {
+    "name": "Ocean Blue",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 238
+  },
+  {
+    "name": "Latte",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 238
+  },
+  {
+    "name": "Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 238
+  },
+  {
+    "name": "Green",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 238
+  },
+  {
+    "name": "Ivory",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 238
+  },
+  {
+    "name": "Golden",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 239
+  },
+  {
+    "name": "Khaky",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 239
+  },
+  {
+    "name": "Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 239
+  },
+  {
+    "name": "Blue",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 239
+  },
+  {
+    "name": "Pink",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 239
+  },
+  {
+    "name": "Denim",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 240
+  },
+  {
+    "name": "Cream",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 240
+  },
+  {
+    "name": "Aqua",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 240
+  },
+  {
+    "name": "Peach",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 240
+  },
+  {
+    "name": "Navy",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 240
+  },
+  {
+    "name": "Olive",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 241
+  },
+  {
+    "name": "Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 241
+  },
+  {
+    "name": "Purple",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 241
+  },
+  {
+    "name": "Merah Bata",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 241
+  },
+  {
+    "name": "Toscha",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 241
+  },
+  {
+    "name": "Sage",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 242
+  },
+  {
+    "name": "Gold",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 242
+  },
+  {
+    "name": "Denim",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 242
+  },
+  {
+    "name": "Brown",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 242
+  },
+  {
+    "name": "Walnut",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 242
+  },
+  {
+    "name": "Dark Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 243
+  },
+  {
+    "name": "Khaky",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 243
+  },
+  {
+    "name": "Burgundy",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 243
+  },
+  {
+    "name": "Army",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 243
+  },
+  {
+    "name": "Choco",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 243
+  },
+  {
+    "name": "Dark Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 244
+  },
+  {
+    "name": "Khaky",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 244
+  },
+  {
+    "name": "Burgundy",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 244
+  },
+  {
+    "name": "Army",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 244
+  },
+  {
+    "name": "Choco",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 244
+  },
+  {
+    "name": "Dark Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 245
+  },
+  {
+    "name": "Khaky",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 245
+  },
+  {
+    "name": "Burgundy",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 245
+  },
+  {
+    "name": "Army",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 245
+  },
+  {
+    "name": "Choco",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 245
+  },
+  {
+    "name": "Army",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 246
+  },
+  {
+    "name": "Choco",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 246
+  },
+  {
+    "name": "Toscha",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 246
+  },
+  {
+    "name": "Green",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 246
+  },
+  {
+    "name": "Dark Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 246
+  },
+  {
+    "name": "Taupe",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 247
+  },
+  {
+    "name": "Grape",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 247
+  },
+  {
+    "name": "Indian Red",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 247
+  },
+  {
+    "name": "Cobalt Blue",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 247
+  },
+  {
+    "name": "Ultramarine",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 247
+  },
+  {
+    "name": "Latte",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 248
+  },
+  {
+    "name": "Lylac",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 248
+  },
+  {
+    "name": "Gold",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 248
+  },
+  {
+    "name": "Peach",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 248
+  },
+  {
+    "name": "Stone",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 248
+  },
+  {
+    "name": "Brown",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 249
+  },
+  {
+    "name": "Latte",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 249
+  },
+  {
+    "name": "Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 249
+  },
+  {
+    "name": "Pink",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 249
+  },
+  {
+    "name": "Olive",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 249
+  },
+  {
+    "name": "Toscha",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 250
+  },
+  {
+    "name": "Peach",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 250
+  },
+  {
+    "name": "Denim",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 250
+  },
+  {
+    "name": "Brown",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 250
+  },
+  {
+    "name": "Hitam",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 250
+  },
+  {
+    "name": "Purple",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 251
+  },
+  {
+    "name": "Pink",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 251
+  },
+  {
+    "name": "Orange",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 251
+  },
+  {
+    "name": "Khaky",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 251
+  },
+  {
+    "name": "Army",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 251
+  },
+  {
+    "name": "Pink",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 252
+  },
+  {
+    "name": "Blue",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 252
+  },
+  {
+    "name": "Cream",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 252
+  },
+  {
+    "name": "Purple",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 252
+  },
+  {
+    "name": "Choco",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 252
+  },
+  {
+    "name": "Khaky",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 253
+  },
+  {
+    "name": "Choco",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 253
+  },
+  {
+    "name": "Lime",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 253
+  },
+  {
+    "name": "Denim",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 253
+  },
+  {
+    "name": "Black",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 253
+  },
+  {
+    "name": "Caramel",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 254
+  },
+  {
+    "name": "Matcha",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 254
+  },
+  {
+    "name": "Purple",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 254
+  },
+  {
+    "name": "Pink",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 254
+  },
+  {
+    "name": "Hitam",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 254
+  },
+  {
+    "name": "Navy",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 255
+  },
+  {
+    "name": "Maroon",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 255
+  },
+  {
+    "name": "Brown",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 255
+  },
+  {
+    "name": "Dusty",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 255
+  },
+  {
+    "name": "Purple",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 255
+  },
+  {
+    "name": "Navy",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 256
+  },
+  {
+    "name": "Maroon",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 256
+  },
+  {
+    "name": "Brown",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 256
+  },
+  {
+    "name": "Dusty",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 256
+  },
+  {
+    "name": "Purple",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 256
+  },
+  {
+    "name": "Choco",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 257
+  },
+  {
+    "name": "Stone",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 257
+  },
+  {
+    "name": "Sky",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 257
+  },
+  {
+    "name": "Dusty",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 257
+  },
+  {
+    "name": "Cream",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 257
+  },
+  {
+    "name": "Sage",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 258
+  },
+  {
+    "name": "Maroon",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 258
+  },
+  {
+    "name": "Cream",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 258
+  },
+  {
+    "name": "Choco",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 258
+  },
+  {
+    "name": "Beige",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 258
+  },
+  {
+    "name": "Hitam",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 259
+  },
+  {
+    "name": "Dark Choco",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 259
+  },
+  {
+    "name": "Salmon",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 259
+  },
+  {
+    "name": "Sage",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 259
+  },
+  {
+    "name": "Cream",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 259
+  },
+  {
+    "name": "Toscha",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 260
+  },
+  {
+    "name": "Pink",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 260
+  },
+  {
+    "name": "Lylac",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 260
+  },
+  {
+    "name": "Khaky",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 260
+  },
+  {
+    "name": "Ash Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 260
+  },
+  {
+    "name": "Denim",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 261
+  },
+  {
+    "name": "Beige",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 261
+  },
+  {
+    "name": "Pink",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 261
+  },
+  {
+    "name": "Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 261
+  },
+  {
+    "name": "Choco",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 261
+  },
+  {
+    "name": "Navy",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 262
+  },
+  {
+    "name": "Maroon",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 262
+  },
+  {
+    "name": "Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 262
+  },
+  {
+    "name": "Denim",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 262
+  },
+  {
+    "name": "Cream",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 262
+  },
+  {
+    "name": "Stone",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 263
+  },
+  {
+    "name": "Sage",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 263
+  },
+  {
+    "name": "Dusty Pink",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 263
+  },
+  {
+    "name": "Denim",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 263
+  },
+  {
+    "name": "Choco",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 263
+  },
+  {
+    "name": "Lylac",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 264
+  },
+  {
+    "name": "Cream",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 264
+  },
+  {
+    "name": "Golden",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 264
+  },
+  {
+    "name": "Brown",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 264
+  },
+  {
+    "name": "Sage",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 264
+  },
+  {
+    "name": "Sky",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 265
+  },
+  {
+    "name": "Purple",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 265
+  },
+  {
+    "name": "Pink",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 265
+  },
+  {
+    "name": "Golden",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 265
+  },
+  {
+    "name": "Flare",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 265
+  },
+  {
+    "name": "Toscha",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 266
+  },
+  {
+    "name": "Purple",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 266
+  },
+  {
+    "name": "Olive",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 266
+  },
+  {
+    "name": "Navy",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 266
+  },
+  {
+    "name": "Black",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 266
+  },
+  {
+    "name": "Choco",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 267
+  },
+  {
+    "name": "Navy",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 267
+  },
+  {
+    "name": "Mauve",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 267
+  },
+  {
+    "name": "Black",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 267
+  },
+  {
+    "name": "Gold",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 267
+  },
+  {
+    "name": "Khaky",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 268
+  },
+  {
+    "name": "Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 268
+  },
+  {
+    "name": "Dusty Pink",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 268
+  },
+  {
+    "name": "BW",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 268
+  },
+  {
+    "name": "Black",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 268
+  },
+  {
+    "name": "Wood",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 269
+  },
+  {
+    "name": "Navy",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 269
+  },
+  {
+    "name": "Latte",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 269
+  },
+  {
+    "name": "Black",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 269
+  },
+  {
+    "name": "Army",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 269
+  },
+  {
+    "name": "Light Brown",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 270
+  },
+  {
+    "name": "Deep Red",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 270
+  },
+  {
+    "name": "Carol",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 270
+  },
+  {
+    "name": "Burgundy",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 270
+  },
+  {
+    "name": "Black",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 270
+  },
+  {
+    "name": "Purple",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 271
+  },
+  {
+    "name": "Stone",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 271
+  },
+  {
+    "name": "Navy",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 271
+  },
+  {
+    "name": "Maroon",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 271
+  },
+  {
+    "name": "Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 271
+  },
+  {
+    "name": "Olive",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 272
+  },
+  {
+    "name": "Pink",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 272
+  },
+  {
+    "name": "Lavender",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 272
+  },
+  {
+    "name": "Sage",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 272
+  },
+  {
+    "name": "Cream",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 272
+  },
+  {
+    "name": "Peach",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 273
+  },
+  {
+    "name": "Orange",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 273
+  },
+  {
+    "name": "Ocean",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 273
+  },
+  {
+    "name": "Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 273
+  },
+  {
+    "name": "Blue",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 273
+  },
+  {
+    "name": "Stone",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 274
+  },
+  {
+    "name": "Ocean Blue",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 274
+  },
+  {
+    "name": "Dark Purple",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 274
+  },
+  {
+    "name": "Dark Green",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 274
+  },
+  {
+    "name": "Black",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 274
+  },
+  {
+    "name": "Choco",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 275
+  },
+  {
+    "name": "Stone",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 275
+  },
+  {
+    "name": "Teracotta",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 275
+  },
+  {
+    "name": "Purple",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 275
+  },
+  {
+    "name": "Denim",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 275
+  },
+  {
+    "name": "Wood",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 276
+  },
+  {
+    "name": "Stone",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 276
+  },
+  {
+    "name": "Sage",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 276
+  },
+  {
+    "name": "Latte",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 276
+  },
+  {
+    "name": "Cream",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 276
+  },
+  {
+    "name": "Brown",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 277
+  },
+  {
+    "name": "Green",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 277
+  },
+  {
+    "name": "Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 277
+  },
+  {
+    "name": "Purple",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 277
+  },
+  {
+    "name": "Toscha",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 277
+  },
+  {
+    "name": "Ash",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 277
+  },
+  {
+    "name": "Hill",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 277
+  },
+  {
+    "name": "Khaky",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 277
+  },
+  {
+    "name": "Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 278
+  },
+  {
+    "name": "Purple",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 278
+  },
+  {
+    "name": "Merah Bata",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 278
+  },
+  {
+    "name": "Toscha",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 278
+  },
+  {
+    "name": "Aqua",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 279
+  },
+  {
+    "name": "Navy",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 279
+  },
+  {
+    "name": "Denim",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 279
+  },
+  {
+    "name": "Cream",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 279
+  },
+  {
+    "name": "Peach",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 279
+  },
+  {
+    "name": "Stone",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 280
+  },
+  {
+    "name": "Cream",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 280
+  },
+  {
+    "name": "Sky",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 280
+  },
+  {
+    "name": "Hitam",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 281
+  },
+  {
+    "name": "Dark Choco",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 281
+  },
+  {
+    "name": "Sage",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 281
+  },
+  {
+    "name": "Cream",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 281
+  },
+  {
+    "name": "Salmon",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 281
+  },
+  {
+    "name": "Sage",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 282
+  },
+  {
+    "name": "Gold",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 282
+  },
+  {
+    "name": "Denim",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 282
+  },
+  {
+    "name": "Brown",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 282
+  },
+  {
+    "name": "Walnut",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 282
+  },
+  {
+    "name": "Hitam",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 283
+  },
+  {
+    "name": "Brown",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 283
+  },
+  {
+    "name": "Cream",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 283
+  },
+  {
+    "name": "Mauve",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 283
+  },
+  {
+    "name": "Peach",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 283
+  },
+  {
+    "name": "Hitam",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 284
+  },
+  {
+    "name": "Orange",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 284
+  },
+  {
+    "name": "Pink",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 284
+  },
+  {
+    "name": "Ash Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 284
+  },
+  {
+    "name": "Soft Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 284
+  },
+  {
+    "name": "Hitam",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 285
+  },
+  {
+    "name": "Blue",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 285
+  },
+  {
+    "name": "Choco",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 285
+  },
+  {
+    "name": "Pink",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 285
+  },
+  {
+    "name": "Sage",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 285
+  },
+  {
+    "name": "Denim",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 286
+  },
+  {
+    "name": "Khaky",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 286
+  },
+  {
+    "name": "Pink",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 286
+  },
+  {
+    "name": "Sage",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 286
+  },
+  {
+    "name": "Stone",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 286
+  },
+  {
+    "name": "Blossom",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 287
+  },
+  {
+    "name": "Sage",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 287
+  },
+  {
+    "name": "Denim",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 287
+  },
+  {
+    "name": "Mauve",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 287
+  },
+  {
+    "name": "Latte",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 287
+  },
+  {
+    "name": "Choco",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 288
+  },
+  {
+    "name": "Dark Choco",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 288
+  },
+  {
+    "name": "Maroon",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 288
+  },
+  {
+    "name": "Purple",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 288
+  },
+  {
+    "name": "Toscha",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 288
+  },
+  {
+    "name": "Black",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 289
+  },
+  {
+    "name": "Brown",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 289
+  },
+  {
+    "name": "Green",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 289
+  },
+  {
+    "name": "Jeans",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 289
+  },
+  {
+    "name": "Lavender",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 289
+  },
+  {
+    "name": "Denim",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 290
+  },
+  {
+    "name": "Beige",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 290
+  },
+  {
+    "name": "Pink",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 290
+  },
+  {
+    "name": "Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 290
+  },
+  {
+    "name": "Choco",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 290
+  },
+  {
+    "name": "Hitam",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 291
+  },
+  {
+    "name": "Dark Choco",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 291
+  },
+  {
+    "name": "Sage",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 291
+  },
+  {
+    "name": "Cream",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 291
+  },
+  {
+    "name": "Salmon",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 291
+  },
+  {
+    "name": "Pink",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 292
+  },
+  {
+    "name": "Blue",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 292
+  },
+  {
+    "name": "Cream",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 292
+  },
+  {
+    "name": "Purple",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 292
+  },
+  {
+    "name": "Choco",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 292
+  },
+  {
+    "name": "Sage",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 293
+  },
+  {
+    "name": "Maroon",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 293
+  },
+  {
+    "name": "Cream",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 293
+  },
+  {
+    "name": "Choco",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 293
+  },
+  {
+    "name": "Beige",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 293
+  },
+  {
+    "name": "Latte",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 294
+  },
+  {
+    "name": "Lylac",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 294
+  },
+  {
+    "name": "Gold",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 294
+  },
+  {
+    "name": "Peach",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 294
+  },
+  {
+    "name": "Stone",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 294
+  },
+  {
+    "name": "Choco",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 295
+  },
+  {
+    "name": "Stone",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 295
+  },
+  {
+    "name": "Sky",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 295
+  },
+  {
+    "name": "Dusty",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 295
+  },
+  {
+    "name": "Cream",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 295
+  },
+  {
+    "name": "Khaky",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 296
+  },
+  {
+    "name": "Pink",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 296
+  },
+  {
+    "name": "Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 296
+  },
+  {
+    "name": "Golden",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 296
+  },
+  {
+    "name": "Blue",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 296
+  },
+  {
+    "name": "Denim",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 297
+  },
+  {
+    "name": "Cream",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 297
+  },
+  {
+    "name": "Aqua",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 297
+  },
+  {
+    "name": "Peach",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 297
+  },
+  {
+    "name": "Navy",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 297
+  },
+  {
+    "name": "Ocean",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 298
+  },
+  {
+    "name": "Latte",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 298
+  },
+  {
+    "name": "Ivy",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 298
+  },
+  {
+    "name": "Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 298
+  },
+  {
+    "name": "Green",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 298
+  },
+  {
+    "name": "Navy",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 299
+  },
+  {
+    "name": "Maroon",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 299
+  },
+  {
+    "name": "Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 299
+  },
+  {
+    "name": "Denim",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 299
+  },
+  {
+    "name": "Cream",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 299
+  },
+  {
+    "name": "Olive",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 300
+  },
+  {
+    "name": "Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 300
+  },
+  {
+    "name": "Purple",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 300
+  },
+  {
+    "name": "Merah Bata",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 300
+  },
+  {
+    "name": "Toscha",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 300
+  },
+  {
+    "name": "BW",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 301
+  },
+  {
+    "name": "Khaky",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 301
+  },
+  {
+    "name": "Cream",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 301
+  },
+  {
+    "name": "Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 301
+  },
+  {
+    "name": "Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 302
+  },
+  {
+    "name": "Maroon",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 302
+  },
+  {
+    "name": "Pink",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 302
+  },
+  {
+    "name": "Army",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 303
+  },
+  {
+    "name": "Choco",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 303
+  },
+  {
+    "name": "Toscha",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 303
+  },
+  {
+    "name": "Green",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 303
+  },
+  {
+    "name": "Dark Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 303
+  },
+  {
+    "name": "Sage",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 304
+  },
+  {
+    "name": "Gold",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 304
+  },
+  {
+    "name": "Denim",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 304
+  },
+  {
+    "name": "Brown",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 304
+  },
+  {
+    "name": "Walnut",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 304
+  },
+  {
+    "name": "Dusty",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 305
+  },
+  {
+    "name": "Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 305
+  },
+  {
+    "name": "BW",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 305
+  },
+  {
+    "name": "Navy",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 305
+  },
+  {
+    "name": "Hitam",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 305
+  },
+  {
+    "name": "Dark Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 306
+  },
+  {
+    "name": "Khaky",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 306
+  },
+  {
+    "name": "Burgundy",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 306
+  },
+  {
+    "name": "Army",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 306
+  },
+  {
+    "name": "Choco",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 306
+  },
+  {
+    "name": "Brown",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 307
+  },
+  {
+    "name": "Latte",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 307
+  },
+  {
+    "name": "Grey",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 307
+  },
+  {
+    "name": "Pink",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 307
+  },
+  {
+    "name": "Olive",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 307
+  },
+  {
+    "name": "Choco",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 308
+  },
+  {
+    "name": "Stone",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 308
+  },
+  {
+    "name": "Teracotta",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 308
+  },
+  {
+    "name": "Purple",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 308
+  },
+  {
+    "name": "Denim",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 308
+  },
+  {
+    "name": "Wood",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 309
+  },
+  {
+    "name": "Stone",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 309
+  },
+  {
+    "name": "Sage",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 309
+  },
+  {
+    "name": "Latte",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 309
+  },
+  {
+    "name": "Cream",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 309
+  },
+  {
+    "name": "Navy",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 310
+  },
+  {
+    "name": "Maroon",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 310
+  },
+  {
+    "name": "Dusty",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 310
+  },
+  {
+    "name": "Purple",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 310
+  },
+  {
+    "name": "Brown",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 310
+  },
+  {
+    "name": "Olive",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 311
+  },
+  {
+    "name": "Pink",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 311
+  },
+  {
+    "name": "Lavender",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 311
+  },
+  {
+    "name": "Sage",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 311
+  },
+  {
+    "name": "Cream",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 311
+  },
+  {
+    "name": "Caramel",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 312
+  },
+  {
+    "name": "Matcha",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 312
+  },
+  {
+    "name": "Purple",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 312
+  },
+  {
+    "name": "Pink",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 312
+  },
+  {
+    "name": "Hitam",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 312
+  },
+  {
+    "name": "Toscha",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 313
+  },
+  {
+    "name": "Peach",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 313
+  },
+  {
+    "name": "Denim",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 313
+  },
+  {
+    "name": "Brown",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 313
+  },
+  {
+    "name": "Hitam",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 313
+  },
+  {
+    "name": "Lylac",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 314
+  },
+  {
+    "name": "Cream",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 314
+  },
+  {
+    "name": "Golden",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 314
+  },
+  {
+    "name": "Brown",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 314
+  },
+  {
+    "name": "Sage",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 314
+  },
+  {
+    "name": "Purple",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 315
+  },
+  {
+    "name": "Pink",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 315
+  },
+  {
+    "name": "Orange",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 315
+  },
+  {
+    "name": "Khaky",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 315
+  },
+  {
+    "name": "Army",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 315
+  },
+  {
+    "name": "Stone",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 316
+  },
+  {
+    "name": "Sage",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 316
+  },
+  {
+    "name": "Dusty Pink",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 316
+  },
+  {
+    "name": "Denim",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 316
+  },
+  {
+    "name": "Choco",
+    "hexCode": "-",
+    "rgb": "-",
+    "imgUrl": "-",
+    "productId": 316
   }
 ]
